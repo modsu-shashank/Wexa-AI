@@ -19,7 +19,7 @@ const auth = async (req, res, next) => {
       });
     }
 
-    const decoded = jwt.verify(token, process.env.JWT_SECRET || 'stockflow_super_secret_jwt_key_2026_mvp');
+    const decoded = jwt.verify(token, process.env.JWT_SECRET);
     
     const user = await User.findById(decoded.id).select('-password');
     if (!user) {
