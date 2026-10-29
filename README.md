@@ -164,3 +164,6 @@ Potential additions include supplier management, purchase orders, barcode scanni
 ## Author
 
 **Shashank Reddy**
+
+<img width="1901" height="885" alt="Screenshot 2026-10-29 070025" src="https://github.com/user-attachments/assets/1350034c-420d-4336-b9f4-9d4b0aad2b24" />
+<img width="1877" height="902" alt="image" src="https://github.com/user-attachments/assets/effe12d2-f18e-4fce-9bd2-ef657285c195" />
